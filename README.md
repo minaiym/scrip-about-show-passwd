@@ -1,0 +1,1 @@
+# scrip-about-show-passwd
